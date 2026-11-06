@@ -1,0 +1,95 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "0.1.80",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 4.4117913832199545,
+          "value": "E",
+          "confidence": null
+        },
+        {
+          "time": 4.4117913832199545,
+          "duration": 33.99401360544218,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 38.40580498866213,
+          "duration": 56.70312925170068,
+          "value": "A",
+          "confidence": null
+        },
+        {
+          "time": 95.10893424036281,
+          "duration": 34.551292517006814,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 129.66022675736963,
+          "duration": 28.606984126984116,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 158.26721088435374,
+          "duration": 55.402811791383215,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 213.67002267573696,
+          "duration": 0.023219954648538987,
+          "value": "E",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "foote",
+        "labels_id": "fmc2d",
+        "timestamp": "2026/08/14 15:09:17",
+        "annot_beats": false,
+        "feature": "pcp",
+        "framesync": false,
+        "M_gaussian": 66,
+        "m_median": 12,
+        "L_peaks": 64,
+        "bound_norm_feats": "min_max",
+        "dirichlet": false,
+        "xmeans": false,
+        "k": 4,
+        "2dfmc_offset": 4,
+        "label_norm_feats": Infinity,
+        "label_norm_floor": 0.1,
+        "label_norm_min_db": -80,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 213.6932426303855,
+    "identifiers": {},
+    "jams_version": "0.3.5"
+  },
+  "sandbox": {}
+}
